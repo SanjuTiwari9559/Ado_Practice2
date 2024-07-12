@@ -1,0 +1,7 @@
+C:\Users\Nimap\Pictures\New_DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Nimap\Pictures\New_DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Nimap\Pictures\New_DotNet\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Nimap\Pictures\New_DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\ADONET.csproj.AssemblyReference.cache
+C:\Users\Nimap\Pictures\New_DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\ADONET.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\Pictures\New_DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Nimap\Pictures\New_DotNet\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
